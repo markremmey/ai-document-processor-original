@@ -1,3 +1,6 @@
+# This accelerator has moved to the following page: github.com/azure/ai-document-processor
+
+
 # AI Document Processor (ADP)
 
 ## Description
